@@ -27,21 +27,21 @@ The replacement of ninth graders’ math and reading scores did not result in a 
 ##### Figure.5 (1st analysis of school summary- refer to column % overall Passing under row of Thomas High School)
 ![per_school_summary_1analysis](per_school_summary_1analysis.png)
 
-##### Figure.6 (2st analysis of school summary- refer to column % overall Passing under row of Thomas High School)
+##### Figure.6 (2nd analysis of school summary- refer to column % overall Passing under row of Thomas High School)
 ![per_school_summary_2analysis](per_school_summary_2analysis.png)
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and reading score by grade
-Math and reading scores for ninth grade under Thomas High School were removed and replaced with ‘NaN’ as presented in figure.8 (2nd analysis - math scores) & figure. 9(2nd analysis - reading scores). All other scores for the remaining grades within the school were not affected. Scores for other schools were not affected either if comparing the data from the first analysis in figures.8 & 9 to figures.10 & 11 (2nd analysis).
+Math and reading scores for ninth grade under Thomas High School were removed and replaced with ‘NaN’ as presented in figure.8 (2nd analysis - math scores) & figure. 10(2nd analysis - reading scores). All other scores for the remaining grades within the school were not affected. Scores for other schools were not affected either if comparing the data from the first analysis in Figures.7 & 9 (1st analysis) to Figures.8 & 10 (2nd analysis).
 
 ##### Figure.7 (1st analysis of math scores for all schools)
 ![math_scores_grade_1analysis](math_scores_grade_1analysis.png)
 
-##### Figure.8 (1st analysis of reading scores for all schools)
-![reading_scores_grade_1analysis](reading_scores_grade_1analysis.png)
-
-##### Figure.9 (2nd analysis of math scores for all schools)
+##### Figure.8 (2nd analysis of math scores for all schools)
 ![math_scores_grade_2analysis](math_scores_grade_2analysis.png)
+
+##### Figure.9 (1st analysis of reading scores for all schools)
+![reading_scores_grade_1analysis](reading_scores_grade_1analysis.png)
 
 ##### Figure.10 (2nd analysis of reading scores for all schools)
 ![reading_scores_grade_2analysis](reading_scores_grade_2analysis.png)
