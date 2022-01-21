@@ -5,10 +5,10 @@ After the initial analysis, the school board suspected academic dishonesty in ma
 
 #### How is the district summary affected?
 With the ninth grade scores from Thomas High School removed, the average math score, % passing Math, % passing Reading, and % Overall Passing all decreased slightly by a few tenths of its respective value. A comparison of the two results are presented below in figure.1 (1st analysis) and figure.2 (2nd analysis).
-###### __Figure. 1 (1st analysis)__
+###### __Figure. 1 (1st analysis)
 ![district_summary_1analysis](district_summary_1analysis.png)
 
-###### __Figure. 2 (2nd analysis)__
+###### __Figure. 2 (2nd analysis)
 ![district_summary_2analysis](district_summary_2analysis.png)
 #### How is the school summary affected?
 
