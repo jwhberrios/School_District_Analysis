@@ -56,8 +56,23 @@ No changes were found in the scores by school spending, as supported by results 
 ![scores_by_spending_2analysis](scores_by_spending_2analysis.png)
 
 ##### Scores by school size
+No changes were observed in the scores across school sizes ranging from small, medium, and large, as supported by results from the first analysis (figure.13) compared to results from the second analysis (figure.14)
+
+##### Figure.13 (1st analysis of scores based on school size)
+![scores_size_1analysis](scores_size_1analysis.png)
+
+##### Figure.14 (2nd analysis of scores based on school size)
+![scores_size_2analysis](scores_size_2analysis.png)
 
 ##### Scores by school type
+No changes were observed in the scores between charter and district schools, as supported by results from the first analysis (figure.15) compared to results from the second analysis (figure.16).
+
+##### Figure.15 (1st analysis of scores based on type of school)
+![score_type_1analysis](score_type_1analysis.png)
+
+##### Figure.16 (2nd analysis of scores based on type of school)
+![score_type_2analysis](score_type_2analysis.png)
+
 
 #### Summary
 1. The average math score, % passing Math, % passing Reading, and % Overall Passing in the district summary all decreased by at least 0.1 of value.
