@@ -5,15 +5,21 @@ After the initial analysis, the school board suspected academic dishonesty in ma
 
 #### How is the district summary affected?
 With the ninth grade scores from Thomas High School removed, the average math score, % passing Math, % passing Reading, and % Overall Passing all decreased slightly by a few tenths of its respective value. A comparison of the two results are presented below in **Figure.1 (1st analysis) and Figure.2 (2nd analysis).**
-######  **Figure.1 (1st analysis)**
+##### Figure.1 (1st analysis of district summary)
 
 ![district_summary_1analysis](district_summary_1analysis.png)
 
-######  **Figure.2 (2nd analysis)**
+##### Figure.2 (2nd analysis of district summary)
 
 ![district_summary_2analysis](district_summary_2analysis.png)
 
 #### How is the school summary affected?
+The following performance parameters for Thomas High School:  average math score, average reading score, % passing math, % passing reading, and % overall passing decreased between 0.01 to 0.5 points. The values are presented in figure. 3 (first analysis) and figure. 4 (second analysis with ninth grade scores from Thomas High School removed). All other schools’ performance parameters were not affected.
+##### Figure.3 (1st analysis of school summary)
+![per_school_summary_1analysis](per_school_summary_1analysis.png)
+
+##### Figure.4 (2nd analysis of school summary)
+![per_school_summary_2analysis](per_school_summary_2analysis.png)
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and reading score by grade
