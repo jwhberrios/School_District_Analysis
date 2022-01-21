@@ -24,11 +24,11 @@ The following performance parameters for Thomas High School:  average math score
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The replacement of ninth graders’ math and reading scores did not result in a substantial change in Thomas School’s performance relative to other schools. Their % overall passing decreased by 0.3%, not significant enough to move them down the list of school performance based on this parameter as presented in Figure.6 (2nd analysis) compared to Figure.5 (1st analysis).
 
-##### Figure.5 (1st analysis of school summary- refer to column % overall Passing under row of Thomas High School)
-![per_school_summary_1analysis](per_school_summary_1analysis.png)
+##### Figure.5 (1st analysis of school summary with focus on % Overall Passing for Thomas High School)
+![school_performance_1analysis](school_performance_1analysis.png)
 
-##### Figure.6 (2nd analysis of school summary- refer to column % overall Passing under row of Thomas High School)
-![per_school_summary_2analysis](per_school_summary_2analysis.png)
+##### Figure.6 (2nd analysis of school summary with focus on % Overall Passing for Thomas High School)
+![school_performance_2analysis](school_performance_2analysis.png)
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and reading score by grade
@@ -49,11 +49,11 @@ Math and reading scores for ninth grade under Thomas High School were removed an
 ##### Scores by school spending
 No changes were found in the scores by school spending, as supported by results from the first analysis (figure.11) compared to results from the second analysis (figure.12)
 
-##### Figure.11 (1st analysis of math scores for all schools)
-![math_scores_grade_1analysis](math_scores_grade_1analysis.png)
+##### Figure.11 (1st analysis of school spending)
+![scores_by_spending_1analysis](scores_by_spending_1analysis.png)
 
-##### Figure.12 (2nd analysis of math scores for all schools)
-![math_scores_grade_1analysis](math_scores_grade_1analysis.png)
+##### Figure.12 (2nd analysis of school spending)
+![scores_by_spending_2analysis](scores_by_spending_2analysis.png)
 
 ##### Scores by school size
 
