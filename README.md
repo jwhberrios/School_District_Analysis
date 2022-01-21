@@ -4,12 +4,12 @@ The purpose of this analysis is to assess school performance based on the perfor
 After the initial analysis, the school board suspected academic dishonesty in math and reading scores for ninth graders at Thomas High School. As such, the ninth grade test scores (math and reading) for students in Thomas High School were removed and a second analysis was performed.
 
 #### How is the district summary affected?
-With the ninth grade scores from Thomas High School removed, the average math score, % passing Math, % passing Reading, and % Overall Passing all decreased slightly by a few tenths of its respective value. A comparison of the two results are presented below in **figure.1 (1st analysis) and figure.2 (2nd analysis).""
-######  **Figure. 1 (1st analysis)**
+With the ninth grade scores from Thomas High School removed, the average math score, % passing Math, % passing Reading, and % Overall Passing all decreased slightly by a few tenths of its respective value. A comparison of the two results are presented below in **Figure.1 (1st analysis) and Figure.2 (2nd analysis).**
+######  **Figure.1 (1st analysis)**
 
 ![district_summary_1analysis](district_summary_1analysis.png)
 
-######  **Figure. 2 (2nd analysis)**
+######  **Figure.2 (2nd analysis)**
 
 ![district_summary_2analysis](district_summary_2analysis.png)
 
