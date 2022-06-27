@@ -1,4 +1,6 @@
 # School_District_Analysis
+## Resources
+Anaconda, Jupyter Notebook, Pandas, Python.
 ## Overview of the School District Analysis
 The purpose of this analysis is to assess school performance based on the performance of standardized test scores in math and reading and funding. Such information will be used by members of the school board and superintendent to make informed budgetary decisions within the school and district level.
 After the initial analysis, the school board suspected academic dishonesty in math and reading scores for ninth graders at Thomas High School. As such, the ninth grade test scores (math and reading) for students in Thomas High School were removed and a second analysis was performed.
